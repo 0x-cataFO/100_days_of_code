@@ -1,0 +1,3 @@
+app = "baboon"
+
+app.index()
